@@ -1,9 +1,10 @@
 # 🚀 Детальний Roadmap: Розробка Застосунку для Відслідковування Громадського Транспорту та Продажу Квитків/Абонементів  
 *(Мінімальний Бюджет, Один Розробник, максимальний термін – 6 місяців)*
 
-[![Status: Planning](https://img.shields.io/badge/Status-Planning-blue.svg)](https://shields.io)  
-[![Budget: Minimal](https://img.shields.io/badge/Budget-Minimal-green.svg)](https://shields.io)  
+[![Status: Planning](https://img.shields.io/badge/Status-Planning-blue.svg)](https://shields.io)
+[![Budget: Minimal](https://img.shields.io/badge/Budget-Minimal-green.svg)](https://shields.io)
 [![Duration: 6 Months](https://img.shields.io/badge/Duration-6_Months-yellow.svg)](https://shields.io)
+
 
 ---
 
